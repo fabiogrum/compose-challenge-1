@@ -1,4 +1,4 @@
-# Put title of your app here
+# Animals
 
 
 ![Workflow result](https://github.com/fabiogrum/compose-challenge-1/workflows/Check/badge.svg)
